@@ -3,7 +3,7 @@
 
 The third "location" is just a link to `http://location.stillhackinganyway.nl/`
 
-![SITE]()
+![SITE](https://github.com/pwilthew/CTF-Write-Ups/blob/master/SHA2017CTF-Junior/Location/Screen%20Shot%202017-08-07%20at%2021.23.35.png)
 
 I noticed that it was taking approximately 2 seconds to reload after clicking on that 'here' link. 
 
