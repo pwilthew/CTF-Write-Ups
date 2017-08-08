@@ -1,0 +1,42 @@
+Hello! Wanna buy a flag?
+Yes please
+Ok, but it will cost you some time
+f
+l
+a
+g
+{
+f
+0
+8
+5
+7
+4
+9
+2
+3
+e
+c
+9
+c
+9
+f
+f
+b
+4
+7
+1
+8
+8
+e
+6
+e
+d
+c
+1
+a
+2
+0
+f
+}
+
