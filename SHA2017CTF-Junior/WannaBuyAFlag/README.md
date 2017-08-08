@@ -3,9 +3,9 @@
 
 To get the flag, we can open the .pcap with Wireshark and follow the TCP stream.
 
-![WIRESHARK]()
+![WIRESHARK](https://github.com/pwilthew/CTF-Write-Ups/blob/master/SHA2017CTF-Junior/WannaBuyAFlag/Wireshark1.png)
 
-![WIRESHARK]()
+![WIRESHARK](https://github.com/pwilthew/CTF-Write-Ups/blob/master/SHA2017CTF-Junior/WannaBuyAFlag/Wireshark2.png)
 
 Then actually save you some time by `echo`ing the copied text into a file; like `echo "Copied text" > pastebin.txt`.
 
