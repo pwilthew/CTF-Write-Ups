@@ -1,5 +1,5 @@
-#Wanna Buy A Flag?
-##Challenge: Analyse this Network capure to get the flag.
+# Wanna Buy A Flag?
+## Challenge: Analyse this Network capure to get the flag.
 
 To get the flag, we can open the .pcap with Wireshark and follow the TCP stream.
 

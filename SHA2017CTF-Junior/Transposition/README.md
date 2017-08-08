@@ -1,5 +1,5 @@
-#Transposition
-##Challenge: We intercepted this secret message. We believe it is using a transposition cipher. Can you decipher it?
+# Transposition
+## Challenge: We intercepted this secret message. We believe it is using a transposition cipher. Can you decipher it?
 ```
 Citgoe6b0 oohern636 nni.tg1e2 gssThe58e rschii366
 aohess3ae tlafcf3dc uvllhl24f lilaaa730 aneglg506 tgnfl{33}

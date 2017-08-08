@@ -1,5 +1,5 @@
-#FindTheFlag
-##Challenge: There is a flag hidden in this binary. Can you find it?
+# FindTheFlag
+## Challenge: There is a flag hidden in this binary. Can you find it?
 
 `strings` will output only the human readable characters:
 ```
