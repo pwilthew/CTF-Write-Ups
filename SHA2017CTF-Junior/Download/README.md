@@ -3,13 +3,13 @@
 
 Using Wireshark to look through the network capure:
 
-![WIRESHARK]()
+![WIRESHARK](https://github.com/pwilthew/CTF-Write-Ups/blob/master/SHA2017CTF-Junior/Download/Wireshark1.png)
 
 We can see there is a jpg file.
-![WIRESHARK]()
+![WIRESHARK](https://github.com/pwilthew/CTF-Write-Ups/blob/master/SHA2017CTF-Junior/Download/Wireshark2.png)
 
 Download it and ta da!
 
-![FLAG]()
+![FLAG](https://github.com/pwilthew/CTF-Write-Ups/blob/master/SHA2017CTF-Junior/Download/flag.jpg)
 
 
