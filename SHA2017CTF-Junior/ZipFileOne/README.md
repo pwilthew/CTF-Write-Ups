@@ -3,7 +3,7 @@
 
 The file is effectively a zip file that asks you for a password. I first wrote a script that creates a dictionary of possible passwords; all the numbers that contain only 5 digits.
 
-```
+```bash
 #!/bin/bash
 
 i="9999"
@@ -19,11 +19,11 @@ I installed fcrackzip, `sudo apt-get install fcrackzip`.
 And ran `fcrackzip -b -D -p dic.txt -u zipfileone.zip`
 
 Which returns:
-```
+```bash
  PASSWORD FOUND!!!!: pw == 42831
  ```
 Unzip it and you are done!
-```
+```bash
 $- unzip zipfileone.zip
 Archive:  zipfileone.zip
 [zipfileone.zip] flag.txt password: 

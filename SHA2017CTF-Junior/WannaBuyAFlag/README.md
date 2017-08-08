@@ -11,7 +11,7 @@ Then actually save you some time by `echo`ing the copied text into a file; like 
 
 And finally, use `tr` with `-d` to delete newline characters:
 
-```
+```bash
  -$ cat pastebin.txt | tr -d '\n'
  Hello! Wanna buy a flag?Yes pleaseOk, but it will cost you some timeflag{f08574923ec9c9ffb47188e6edc1a20f}%
  ```
