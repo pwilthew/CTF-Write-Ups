@@ -9,7 +9,9 @@ Serial
 
 ## Solution
 ![Serial1](https://github.com/pwilthew/CTF-Write-Ups/blob/master/CSAW2017-Serial/Serial1.png)
-We get 11 bits everytime. The first and the last bits are always 0 and 1. That leaves us with 9 bits. The last of those 9 bits is the parity bit. A serial will be considered correct if the number of ones in the 8 bit string is even and the parity bit is 0, or if the number of ones is odd and the parity bit is 1.
+
+Note that we get 11 bits everytime. The first and the last bits are always 0 and 1. That leaves us with 9 bits. The last of those 9 bits is the parity bit. A serial will be considered correct if the number of ones in the 8 bit string is even and the parity bit is 0, or if the number of ones is odd and the parity bit is 1.
+
 ![Serial2](https://github.com/pwilthew/CTF-Write-Ups/blob/master/CSAW2017-Serial/Serial2.png)
 
 ![Serial3](https://github.com/pwilthew/CTF-Write-Ups/blob/master/CSAW2017-Serial/Serial3.png)
